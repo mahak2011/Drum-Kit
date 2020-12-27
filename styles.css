@@ -69,9 +69,7 @@ background-image: url("images/kick.png");
   font-family: 'Arvo', cursive;
   line-height: 2;
   font-weight: 900;
-  /* color: #DA0463; */
   color: yellow;
-  /* text-shadow: 3px 0 #DBEDF3; */
   text-shadow: 4px 0 black;
   border-radius: 15px;
   display: inline-block;
