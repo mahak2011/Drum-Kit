@@ -63,6 +63,3 @@ function buttonAnimation(currentKey) {
     activeButton.classList.remove("pressed");
   }, 100);
 }
-// document.querySelector("button").addEventListener("click", function () {
-//   alert("I Got Clicked!");
-// });
